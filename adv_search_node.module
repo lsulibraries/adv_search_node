@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the adv-search-node feature.
+ */
+
+include_once 'adv_search_node.features.inc';
